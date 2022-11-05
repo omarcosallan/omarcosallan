@@ -10,8 +10,8 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, JAVA**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-marcos-allan/)](https://www.linkedin.com/in/dev-marcos-allan/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/marcosallan15)](https://instagram.com/marcosallan15)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcosallan/)](https://www.linkedin.com/in/omarcosallan/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/omarcosallan)](https://instagram.com/omarcosallan)
 
 ### 🛠 Tech Stack
 
