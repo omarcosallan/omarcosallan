@@ -1,4 +1,6 @@
+<!--
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/omarcosallan/bb5a475fa54efe921fe02625615e08c0/raw/7be9efdc007596d54d746a30f11b13c8a58041fa/githubcard.svg"/>
+-->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcos Allan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarcosallan&color=yellow" alt="Profile views" /> </p>
 
