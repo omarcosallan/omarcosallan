@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcosallan/)](https://www.linkedin.com/in/omarcosallan/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/omarcosallan)](https://instagram.com/omarcosallan)
 
-### 🛠 Tech Stack
+## 🚀 Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -21,6 +21,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-____
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
 
+## ⭐ GitHub Stats
 [![Marcos Allan's github stats](https://github-readme-stats.vercel.app/api?username=omarcosallan&theme=dark&show_icons=true&count_private=true)](https://github.com/omarcosallan)
