@@ -4,11 +4,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcos Allan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarcosallan&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I am a developer in training, student ONE - Oracle Next Education - Class 03
+- 🔥 I'm a developer, student - Oracle Next Education - Group 03
 
 - 🔭 I’m currently working at [Prefeitura Municipal de Venha-Ver](https://www.venhaver.rn.gov.br)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, JAVA**
+- 💬 Ask me about **React, JavaScript, HTML, CSS e JAVA**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcosallan/)](https://www.linkedin.com/in/omarcosallan/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/omarcosallan)](https://instagram.com/omarcosallan)
